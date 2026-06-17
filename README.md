@@ -29,7 +29,7 @@ Data Lakes vs Warehouses vs Lakehouses:
 
 - Data Lake: Raw, unstructured data storage (cheap, flexible).
 - Data Warehouse: Structured, optimized for analytics (fast queries, strict schema).
-- Lakehouse: Hybrid—combines lake flexibility with warehouse performance and structure.
+- Lakehouse: Hybrid, combines lake flexibility with warehouse performance and structure.
 
 ## Dataset
 
