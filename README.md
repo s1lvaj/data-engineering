@@ -13,8 +13,7 @@ retail-data/
 ├── sql/                       # SQL transformations (gold layer)
 ├── src/                       # Python scripts
 ├── pipeline.py                # End-to-end pipeline orchestration
-├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation
 ```
 
 During code execution, the following folders will be created:
